@@ -8,3 +8,5 @@ while not swap:
 			swap = False
 			arr[i],arr[i+1] = arr[i+1],arr[i]
 print(arr)
+
+#T O(n^2) S O(1)

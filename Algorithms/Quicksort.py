@@ -1,4 +1,4 @@
-def quick_sort(arr):
+def quick_sort(arr): #O(nlogn)
 	length = len(arr)
 
 	if length <=1:
